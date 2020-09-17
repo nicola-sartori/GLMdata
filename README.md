@@ -8,5 +8,5 @@ Dataset from book Salvan, Sartori and Pace (2020) "Modelli Lineari Generalizzati
 # if devtools is not installed yet: 
 # install.packages("devtools") 
 library(devtools)
-install_github("nicola-sartori/GLMdata")
+install_github("nicola-sartori/MLGdata")
 ```
