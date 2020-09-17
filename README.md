@@ -1,4 +1,4 @@
-# GLMdata
+# MLGdata
 
 Dataset from book Salvan, Sartori and Pace (2020) "Modelli Lineari Generalizzati", Springer-Verlag.
 
